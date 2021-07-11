@@ -1,4 +1,4 @@
-- 👋 Hi, I’m making mt first steps in web development as @ryszard-glegola-learning
+- 👋 Hi, I’m making my first steps in web development as @ryszard-glegola-learning
 - 👀 I’m interested in becoming a proficient web developer
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me: ryszarddotglegola at gmaildotcom
